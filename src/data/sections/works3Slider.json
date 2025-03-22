@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Pengembangan Aplikasi & Web",
+    "secTex": "Innovation and Functionality",
+    "image": "/img/Service/app_web.svg",
+    "slug": "/project-details/app-web"
+  },
+  {
+    "id": 2,
+    "title": "Produksi Konten",
+    "secTex": "Video, Fotografi, dan Videografi",
+    "image": "/img/Service/content_production.svg",
+    "slug": "/project-details/content-production"
+  },
+  {
+    "id": 3,
+    "title": "Desain & Mockup",
+    "secTex": "Grafis dan Representasi Visual",
+    "image": "/img/Service/design_mockup.svg",
+    "slug": "/project-details/design-mockup"
+  }
+]

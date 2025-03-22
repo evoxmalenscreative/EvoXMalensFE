@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "lightImage": "/img/clients/medicare.png",
+    "darkImage": "/img/clients/medicare.png",
+    "url": "medicare.com.my"
+  },
+  {
+    "id": 2,
+    "lightImage": "/img/clients/icontine.png",
+    "darkImage": "/img/clients/icontine.png",
+    "url": "icon-tine.umm.ac.id"
+  },
+  {
+    "id": 3,
+    "lightImage": "/img/clients/informatika.png",
+    "darkImage": "/img/clients/informatika.png",
+    "url": "informatika.umm.ac.id"
+  },
+  {
+    "id": 4,
+    "lightImage": "/img/clients/legalverse.png",
+    "darkImage": "/img/clients/legalverse.png",
+    "url": "hukum.umm.ac.id"
+  },
+  {
+    "id": 5,
+    "lightImage": "/img/clients/mra.png",
+    "darkImage": "/img/clients/mra.png",
+    "url": "maulanarayaabadi.com"
+  },
+  {
+    "id": 6,
+    "lightImage": "/img/clients/brands/light/6.png",
+    "darkImage": "/img/clients/brands/dark/06.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 7,
+    "lightImage": "/img/clients/brands/light/7.png",
+    "darkImage": "/img/clients/brands/dark/07.png",
+    "url": "www.avo.com"
+  },
+  {
+    "id": 8,
+    "lightImage": "/img/clients/brands/light/8.png",
+    "darkImage": "/img/clients/brands/dark/08.png",
+    "url": "www.avo.com"
+  }
+]

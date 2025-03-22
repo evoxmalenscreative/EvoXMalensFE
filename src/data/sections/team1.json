@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/img/team/awik.svg",
+    "name": "Mocharief Setiawan",
+    "title": "Founder Malens Creative"
+  },
+  {
+    "id": 2,
+    "image": "/img/team/farras.svg",
+    "name": "Farras Sandy",
+    "title": "Founder Fens Studio"
+  },
+  {
+    "id": 3,
+    "image": "/img/team/han.svg",
+    "name": "Rayhan Rizy Widi Ananta",
+    "title": "Founder EVO"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Pengembangan Aplikasi & Web"
+    },
+    "content": "Menghadirkan layanan pengembangan aplikasi mobile dan website yang dirancang khusus sesuai kebutuhan bisnis Anda.",
+    "image": "/img/slid/01.svg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Produksi",
+      "second": "Konten"
+    },
+    "content": "Dapatkan konten kreatif! Edit video mentah jadi memukau, fotografi yang indah, dan videografi sinematik yang memikat.",
+    "image": "/img/slid/03.svg"
+  },
+  {
+    "id": 3,
+    "title": "Desain & Mockup",
+    "content": "Dapatkan berbagai pilihan mockup, customisasi, dan editing profesional.",
+    "image": "/img/slid/02.svg"
+  }
+]

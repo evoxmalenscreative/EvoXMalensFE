@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Pengembangan Aplikasi & Web",
+    "secTex": "Innovation and Functionality",
+    "image": "/img/Service/malens3.svg",
+    "slug": ""
+  },
+  {
+    "id": 2,
+    "title": "Produksi Konten",
+    "secTex": "Video, Fotografi, dan Videografi",
+    "image": "/img/Service/malens1.svg",
+    "slug": ""
+  },
+  {
+    "id": 3,
+    "title": "Desain & Mockup",
+    "secTex": "Grafis dan Representasi Visual",
+    "image": "/img/Service/malens2.svg",
+    "slug": ""
+  }
+]
