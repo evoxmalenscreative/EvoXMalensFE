@@ -8,7 +8,6 @@ import ProjectDetails2Images from "../../components/Project-details2-images";
 import ProjectDetailsDescription from "../../components/Project-details-description";
 import ProjectDetailsVideo from "../../components/Project-details-video";
 import NextProject from "../../components/Next-project";
-import SmallFooter from "../../components/Small-footer";
 
 const ProjectDetails2Light = () => {
     const navbarRef = React.useRef(null);
@@ -47,7 +46,6 @@ const ProjectDetails2Light = () => {
           projectImage="/img/portfolio/project1/bg.jpg"
           projectTitle="Natural plus modern."
         />
-        <SmallFooter />
       </LightTheme>
     );
 }

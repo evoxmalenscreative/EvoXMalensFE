@@ -7,7 +7,6 @@ import ProjectDetailsImages from "../../components/Project-details-images";
 import ProjectDetailsDescription from "../../components/Project-details-description";
 import ProjectDetailsVideo from "../../components/Project-details-video";
 import NextProject from "../../components/Next-project";
-import SmallFooter from "../../components/Small-footer";
 const ProjectDetailsLight = () => {
   const navbarRef = React.useRef(null);
   const logoRef = React.useRef(null);
@@ -43,7 +42,6 @@ const ProjectDetailsLight = () => {
         projectImage="/img/portfolio/project2/bg.jpg"
         projectTitle="Inspiring new space."
       />
-      <SmallFooter />
     </LightTheme>
   );
 };
